@@ -1,0 +1,1794 @@
+{
+ "regions": [
+  {
+   "id": "riyadh",
+   "ar": "الرياض",
+   "en": "Riyadh"
+  },
+  {
+   "id": "makkah",
+   "ar": "مكة المكرمة",
+   "en": "Makkah"
+  },
+  {
+   "id": "madinah",
+   "ar": "المدينة المنورة",
+   "en": "Madinah"
+  },
+  {
+   "id": "qassim",
+   "ar": "القصيم",
+   "en": "Qassim"
+  },
+  {
+   "id": "eastern",
+   "ar": "المنطقة الشرقية",
+   "en": "Eastern Province"
+  },
+  {
+   "id": "asir",
+   "ar": "عسير",
+   "en": "Asir"
+  },
+  {
+   "id": "tabuk",
+   "ar": "تبوك",
+   "en": "Tabuk"
+  },
+  {
+   "id": "hail",
+   "ar": "حائل",
+   "en": "Hail"
+  },
+  {
+   "id": "northern",
+   "ar": "الحدود الشمالية",
+   "en": "Northern Borders"
+  },
+  {
+   "id": "jazan",
+   "ar": "جازان",
+   "en": "Jazan"
+  },
+  {
+   "id": "najran",
+   "ar": "نجران",
+   "en": "Najran"
+  },
+  {
+   "id": "bahah",
+   "ar": "الباحة",
+   "en": "Al-Baha"
+  },
+  {
+   "id": "jouf",
+   "ar": "الجوف",
+   "en": "Al-Jouf"
+  }
+ ],
+ "characters": [
+  {
+   "id": "riyadh-m",
+   "name_ar": "عبدالعزيز",
+   "name_en": "Abdulaziz",
+   "region": "riyadh",
+   "region_ar": "الرياض",
+   "region_en": "Riyadh",
+   "gender": "m",
+   "bio_ar": "عبدالعزيز من الرياض. يحب الحكايات والأسئلة، ويحمل جهاز تسجيل صغيرًا يجمع فيه حكايات الكبار.",
+   "bio_en": "Abdulaziz is from Riyadh. He loves stories and questions, and carries a small recorder to collect stories from grown-ups.",
+   "hobby_ar": "تسجيل الحكايات",
+   "hobby_en": "recording stories",
+   "skill_ar": "الإصغاء وتلخيص الكلام الطويل في جملة قصيرة",
+   "skill_en": "Listening, and summing up a long talk in one short sentence",
+   "line_ar": "«سجّلت أهم جملة… اسمعوها!»",
+   "line_en": "“I recorded the most important sentence… listen!”",
+   "gloss_ar": "«سجّلت»: سجّلتُ.",
+   "gloss_en": "In Arabic he says “sajjalt”, meaning “I recorded”.",
+   "outfit": {
+    "environment_ar": "الدرعية — المنطقة الوسطى",
+    "environment_en": "Diriyah — Central Region",
+    "source": "central",
+    "pieces": [
+     {
+      "name_ar": "ثوب",
+      "name_en": "Thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "شماغ أحمر وعقال",
+      "name_en": "Red shemagh and agal",
+      "desc_ar": "يذكر الدليل الشماغ الأحمر والعقال من أغطية الرأس في المنطقة الوسطى",
+      "desc_en": "the guide lists the red shemagh (checked head cloth) and the agal (black cord ring) among head coverings in the Central Region"
+     },
+     {
+      "name_ar": "دقلة",
+      "name_en": "Daglah",
+      "desc_ar": "رداء طويل مفتوح من الأمام بياقة عالية وأكمام إلى الرسغ",
+      "desc_en": "a long coat open at the front, with a high collar and wrist-length sleeves"
+     }
+    ],
+    "needs_ar": [
+     "لون الدقلة المناسب للأولاد: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "A suitable daglah colour for boys: illustrated reference"
+    ],
+    "darah": true
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#B97A4C",
+    "garment": "dagla",
+    "color": "#FFFFFF",
+    "over": "#6E4A2E",
+    "trim": "#E8934A",
+    "head": "shemagh",
+    "agal": true,
+    "pose": "hold",
+    "prop": "recorder",
+    "eyes": "dot",
+    "mouth": "smile",
+    "brows": "flat"
+   },
+   "page": "Aziz",
+   "greet_ar": "هلا والله، حيّاك!",
+   "greet_en": "Hey there, welcome!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "riyadh-f",
+   "name_ar": "نورة",
+   "name_en": "Nora",
+   "region": "riyadh",
+   "region_ar": "الرياض",
+   "region_en": "Riyadh",
+   "gender": "f",
+   "bio_ar": "نورة من الرياض. تحب التصوير، وتلاحظ التفاصيل الصغيرة التي تفوت الآخرين.",
+   "bio_en": "Nora is from Riyadh. She loves taking photos and notices the small details that others miss.",
+   "hobby_ar": "التصوير",
+   "hobby_en": "taking photos",
+   "skill_ar": "الملاحظة والمقارنة",
+   "skill_en": "Observing and comparing",
+   "line_ar": "«وش اللي تغيّر بين الصورتين؟»",
+   "line_en": "“What changed between the two pictures?”",
+   "gloss_ar": "«وش»: ماذا / ما الذي.",
+   "gloss_en": "In Arabic Nora says “wesh”, a Saudi word for “what”.",
+   "outfit": {
+    "environment_ar": "الدرعية — المنطقة الوسطى",
+    "environment_en": "Diriyah — Central Region",
+    "source": "central",
+    "pieces": [
+     {
+      "name_ar": "ثوب الكرباس",
+      "name_en": "Karbas dress",
+      "desc_ar": "ثوب قطني، وكان الأخضر والأسود من ألوانه المفضّلة لدى نساء الدرعية",
+      "desc_en": "a cotton dress; green and black were favourite colours among the women of Diriyah"
+     },
+     {
+      "name_ar": "المخنق",
+      "name_en": "Mukhnaq",
+      "desc_ar": "ثوب شفاف بفتحة للعنق تلبسه الصغيرات",
+      "desc_en": "a sheer dress with a neck opening, worn by young girls"
+     }
+    ],
+    "needs_ar": [
+     "طريقة لبس المخنق فوق ثوب الكرباس للطفلة: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "How a girl wears the mukhnaq over the karbas dress: illustrated reference"
+    ],
+    "darah": true
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#2F6B3F",
+    "emb": "hem",
+    "trim": "#1E1B22",
+    "trim2": "#E8934A",
+    "head": "long",
+    "pose": "hold",
+    "prop": "camera",
+    "eyes": "dot",
+    "mouth": "smile",
+    "mukhnaq": true
+   },
+   "page": "Nora",
+   "greet_ar": "يا هلا ومرحبا!",
+   "greet_en": "Hello and welcome!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "makkah-m",
+   "name_ar": "منصور",
+   "name_en": "Mansour",
+   "region": "makkah",
+   "region_ar": "مكة المكرمة",
+   "region_en": "Makkah",
+   "gender": "m",
+   "bio_ar": "منصور يحب الورد ورائحته، ويعرف متى تتفتّح كل وردة في مزرعة جدّه.",
+   "bio_en": "Mansour loves roses and their scent, and knows when every rose will open on his grandfather’s farm.",
+   "hobby_ar": "العناية بالورد",
+   "hobby_en": "caring for roses",
+   "skill_ar": "الصبر والانتباه لمواعيد السقي",
+   "skill_en": "Patience, and remembering watering times",
+   "line_ar": "«الوردة تحتاج صبر… مثلنا!»",
+   "line_en": "“A rose needs patience… just like us!”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "بيئة مدن الحجاز (اختيار مبدئي)",
+    "environment_en": "Hijaz city environment (preliminary choice)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب أبيض",
+      "name_en": "White thobe",
+      "desc_ar": "ثوب طويل بسيط",
+      "desc_en": "a simple long robe"
+     },
+     {
+      "name_ar": "طاقية بيضاء",
+      "name_en": "White cap",
+      "desc_ar": "غطاء رأس صغير",
+      "desc_en": "a small head cover"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في الحجاز: الدليل الحالي لا يغطي أزياء الرجال في المنطقة الغربية"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Hijaz: the current guide does not cover men’s dress in the Western Region"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#B97A4C",
+    "garment": "thobe",
+    "color": "#FFFFFF",
+    "head": "qahfiya",
+    "pose": "hold",
+    "prop": "rose",
+    "eyes": "wide",
+    "mouth": "grin",
+    "brows": "up",
+    "fw": 1.04,
+    "fh": 1.02
+   },
+   "greet_ar": "يا هلا بالحبايب!",
+   "greet_en": "Welcome, dear friends!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "makkah-f",
+   "name_ar": "سارة",
+   "name_en": "Sarah",
+   "region": "makkah",
+   "region_ar": "مكة المكرمة",
+   "region_en": "Makkah",
+   "gender": "f",
+   "bio_ar": "سارة تحب الخط العربي، وتكتب أسماء أصدقائها بحروف جميلة.",
+   "bio_en": "Sarah loves Arabic calligraphy and writes her friends’ names in beautiful letters.",
+   "hobby_ar": "الخط العربي",
+   "hobby_en": "Arabic calligraphy",
+   "skill_ar": "الدقة وحسن الترتيب",
+   "skill_en": "Precision and neatness",
+   "line_ar": "«خلّني أكتب اسمك بخط حلو!»",
+   "line_en": "“Let me write your name in pretty letters!”",
+   "gloss_ar": "«خلّني»: دعني.",
+   "gloss_en": "In Arabic she says “khallni”, meaning “let me”.",
+   "outfit": {
+    "environment_ar": "المنطقة الغربية (الحجاز)",
+    "environment_en": "Western Region (Hijaz)",
+    "source": "west",
+    "pieces": [
+     {
+      "name_ar": "صدرية بالأحمر والأخضر",
+      "name_en": "A sedrah in red and green",
+      "desc_ar": "يذكر الدليل أن الصدرة تُلبس للأطفال بالأحمر والأخضر",
+      "desc_en": "the guide says the sedrah is worn by children in red and green"
+     }
+    ],
+    "needs_ar": [
+     "شكل الصدرة وطريقة لبسها للطفلة: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "The shape of the sedrah and how a girl wears it: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#C0452E",
+    "emb": "yoke",
+    "trim": "#1A6E5A",
+    "trim2": "#F2B888",
+    "head": "braids",
+    "accent": "#1A6E5A",
+    "pose": "point",
+    "prop": "notebook",
+    "eyes": "dot",
+    "mouth": "side",
+    "brows": "flat",
+    "fw": 0.95,
+    "fh": 0.97
+   },
+   "greet_ar": "أهلين وسهلين!",
+   "greet_en": "Hi, welcome!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "madinah-m",
+   "name_ar": "محمد",
+   "name_en": "Mohammed",
+   "region": "madinah",
+   "region_ar": "المدينة المنورة",
+   "region_en": "Madinah",
+   "gender": "m",
+   "bio_ar": "محمد يحب القراءة، ويحمل كتابًا في كل مكان، ويحكي لأصدقائه ما قرأه.",
+   "bio_en": "Mohammed loves reading. He carries a book everywhere and tells his friends what he has read.",
+   "hobby_ar": "القراءة",
+   "hobby_en": "reading",
+   "skill_ar": "الحفظ وسرد الحكايات",
+   "skill_en": "Remembering and storytelling",
+   "line_ar": "«قريت حكاية حلوة… تبون أحكيها لكم؟»",
+   "line_en": "“I read a lovely story… want me to tell you?”",
+   "gloss_ar": "«قريت»: قرأتُ. «تبون»: تريدون.",
+   "gloss_en": "In Arabic he says “gareet”, meaning “I read”, and “tabon”, meaning “do you want”.",
+   "outfit": {
+    "environment_ar": "بيئة مدن الحجاز (اختيار مبدئي)",
+    "environment_en": "Hijaz city environment (preliminary choice)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب أبيض",
+      "name_en": "White thobe",
+      "desc_ar": "ثوب طويل بسيط",
+      "desc_en": "a simple long robe"
+     },
+     {
+      "name_ar": "غترة بيضاء",
+      "name_en": "White ghutrah",
+      "desc_ar": "بلا عقال",
+      "desc_en": "without an agal"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في المدينة المنورة: الدليل الحالي لا يغطي أزياء الرجال في المنطقة الغربية"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Madinah: the current guide does not cover men’s dress in the Western Region"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#A86F45",
+    "garment": "thobe",
+    "color": "#FFFFFF",
+    "head": "ghutra",
+    "agal": false,
+    "pose": "holdboth",
+    "prop": "book",
+    "eyes": "dot",
+    "mouth": "smile",
+    "glasses": true,
+    "fw": 0.97,
+    "fh": 1.06
+   },
+   "greet_ar": "أهلًا بك في المدينة!",
+   "greet_en": "Welcome to Madinah!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "madinah-f",
+   "name_ar": "فاطمة",
+   "name_en": "Fatimah",
+   "region": "madinah",
+   "region_ar": "المدينة المنورة",
+   "region_en": "Madinah",
+   "gender": "f",
+   "bio_ar": "فاطمة تحب الزراعة، وتسقي فسائل النخل الصغيرة كل صباح مع أمها.",
+   "bio_en": "Fatimah loves gardening and waters the young palm shoots every morning with her mother.",
+   "hobby_ar": "الزراعة",
+   "hobby_en": "gardening",
+   "skill_ar": "الاهتمام بالتفاصيل اليومية",
+   "skill_en": "Caring for everyday details",
+   "line_ar": "«كل فسيلة صغيرة بتصير نخلة كبيرة!»",
+   "line_en": "“Every little palm shoot will grow into a big palm tree!”",
+   "gloss_ar": "«فسيلة»: نخلة صغيرة. «بتصير»: ستصبح.",
+   "gloss_en": "In Arabic she says “faseelah”, a young palm shoot, and “bitseer”, meaning “will become”.",
+   "outfit": {
+    "environment_ar": "المنطقة الغربية (الحجاز)",
+    "environment_en": "Western Region (Hijaz)",
+    "source": "west",
+    "pieces": [
+     {
+      "name_ar": "صدرية بالأخضر والأحمر",
+      "name_en": "A sedrah in green and red",
+      "desc_ar": "يذكر الدليل أن الصدرة تُلبس للأطفال بالأحمر والأخضر",
+      "desc_en": "the guide says the sedrah is worn by children in red and green"
+     },
+     {
+      "name_ar": "شيلة فاتحة",
+      "name_en": "Light shaylah",
+      "desc_ar": "غطاء رأس خفيف",
+      "desc_en": "a light head cover"
+     }
+    ],
+    "needs_ar": [
+     "شكل الصدرة وطريقة لبسها للطفلة: مرجع مصوّر",
+     "الشيلة للطفلة في المدينة المنورة"
+    ],
+    "needs_en": [
+     "The shape of the sedrah and how a girl wears it: illustrated reference",
+     "The shaylah for a girl in Madinah"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#D6A06C",
+    "garment": "dress",
+    "color": "#1A6E5A",
+    "emb": "zigzag",
+    "trim": "#C0452E",
+    "trim2": "#F2B888",
+    "head": "shayla",
+    "shaylaColor": "#F6EEE4",
+    "shaylaEdge": "#C0452E",
+    "hairColor": "#3B2A20",
+    "pose": "hold",
+    "prop": "seedling",
+    "eyes": "happy",
+    "mouth": "grin",
+    "fw": 1.03,
+    "fh": 0.95
+   },
+   "greet_ar": "حيّاك في طيبة!",
+   "greet_en": "Welcome to Taybah, our Madinah!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "qassim-m",
+   "name_ar": "سليمان",
+   "name_en": "Sulaiman",
+   "region": "qassim",
+   "region_ar": "القصيم",
+   "region_en": "Qassim",
+   "gender": "m",
+   "bio_ar": "سليمان يعرف أنواع التمر من شكلها ولونها، ويحب أن يشارك أصدقاءه تمر مزرعتهم.",
+   "bio_en": "Sulaiman can tell the kinds of dates by their shape and colour, and loves sharing his family farm’s dates with his friends.",
+   "hobby_ar": "التعرّف على أنواع التمر",
+   "hobby_en": "learning the kinds of dates",
+   "skill_ar": "الكرم والمشاركة",
+   "skill_en": "Generosity and sharing",
+   "line_ar": "«ذوقوا هذا… من نخلتنا!»",
+   "line_en": "“Taste this… it’s from our palm tree!”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الوسطى (نجد)",
+    "environment_en": "Central Region (Najd)",
+    "source": "central",
+    "pieces": [
+     {
+      "name_ar": "ثوب",
+      "name_en": "Thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "غترة وعقال",
+      "name_en": "Ghutrah and agal",
+      "desc_ar": "غطاء الرأس وما يثبّته",
+      "desc_en": "the head cover and what holds it in place"
+     },
+     {
+      "name_ar": "دقلة",
+      "name_en": "Daglah",
+      "desc_ar": "رداء طويل مفتوح من الأمام بياقة عالية",
+      "desc_en": "a long coat open at the front, with a high collar"
+     }
+    ],
+    "needs_ar": [
+     "ألوان الدقلة المناسبة للأولاد: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Daglah colours suitable for boys: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#B97A4C",
+    "garment": "dagla",
+    "color": "#FFFFFF",
+    "over": "#3A5A40",
+    "trim": "#E8934A",
+    "head": "ghutra",
+    "pose": "hips",
+    "prop": "dates",
+    "eyes": "dot",
+    "mouth": "grin",
+    "brows": "up",
+    "fw": 1.06,
+    "fh": 1.03
+   },
+   "greet_ar": "أرحب، يا هلا!",
+   "greet_en": "Come on in, welcome!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "qassim-f",
+   "name_ar": "مضاوي",
+   "name_en": "Madawi",
+   "region": "qassim",
+   "region_ar": "القصيم",
+   "region_en": "Qassim",
+   "gender": "f",
+   "bio_ar": "مضاوي فضولية، تحمل عدسة مكبّرة وتفحص بها الأوراق والحشرات الصغيرة.",
+   "bio_en": "Madawi is curious. She carries a magnifying glass to look closely at leaves and small insects.",
+   "hobby_ar": "استكشاف الطبيعة",
+   "hobby_en": "exploring nature",
+   "skill_ar": "طرح الأسئلة والتجريب",
+   "skill_en": "Asking questions and experimenting",
+   "line_ar": "«ليش هالورقة لونها كذا؟»",
+   "line_en": "“Why is this leaf this colour?”",
+   "gloss_ar": "«ليش»: لماذا. «كذا»: هكذا.",
+   "gloss_en": "In Arabic she says “laish”, meaning “why”, and “katha”, meaning “like this”.",
+   "outfit": {
+    "environment_ar": "المنطقة الوسطى (نجد)",
+    "environment_en": "Central Region (Najd)",
+    "source": "central",
+    "pieces": [
+     {
+      "name_ar": "ثوب الكرباس",
+      "name_en": "Karbas dress",
+      "desc_ar": "ثوب قطني، والأخضر والأسود لونان شائعان له",
+      "desc_en": "a cotton dress; green and black are common colours for it"
+     },
+     {
+      "name_ar": "المخنق",
+      "name_en": "Mukhnaq",
+      "desc_ar": "ثوب شفاف بفتحة للعنق تلبسه الصغيرات",
+      "desc_en": "a sheer dress with a neck opening, worn by young girls"
+     }
+    ],
+    "needs_ar": [
+     "طريقة لبس المخنق فوق الثوب للطفلة: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "How a girl wears the mukhnaq over the dress: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#2F6B3F",
+    "emb": "hem",
+    "trim": "#E8934A",
+    "trim2": "#F6EEE4",
+    "head": "long",
+    "pose": "hold",
+    "prop": "magnifier",
+    "eyes": "wide",
+    "mouth": "o",
+    "brows": "up",
+    "mukhnaq": true,
+    "fw": 0.96,
+    "fh": 0.94
+   },
+   "greet_ar": "هلا ومسهلا!",
+   "greet_en": "Welcome, welcome!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "eastern-m",
+   "name_ar": "حمد",
+   "name_en": "Hamad",
+   "region": "eastern",
+   "region_ar": "المنطقة الشرقية",
+   "region_en": "Eastern Province",
+   "gender": "m",
+   "bio_ar": "حمد يحب البحر، ويخرج مع أبيه للصيد، ويعرف أسماء الأسماك.",
+   "bio_en": "Hamad loves the sea, goes fishing with his father, and knows the names of the fish.",
+   "hobby_ar": "الصيد ومراقبة البحر",
+   "hobby_en": "fishing and watching the sea",
+   "skill_ar": "الهدوء والانتظار",
+   "skill_en": "Staying calm and waiting",
+   "line_ar": "«البحر يعلّمنا الصبر.»",
+   "line_en": "“The sea teaches us patience.”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الشرقية",
+    "environment_en": "Eastern Province",
+    "source": "eastern",
+    "pieces": [
+     {
+      "name_ar": "قحفية",
+      "name_en": "Qahfiyah",
+      "desc_ar": "طاقية قطنية بيضاء",
+      "desc_en": "a white cotton cap"
+     },
+     {
+      "name_ar": "ثوب أبيض",
+      "name_en": "White thobe",
+      "desc_ar": "ثوب قطني للصيف",
+      "desc_en": "a cotton summer robe"
+     },
+     {
+      "name_ar": "سديري",
+      "name_en": "Sideri",
+      "desc_ar": "صدرية بلا أكمام تُلبس فوق الثوب في المناسبات",
+      "desc_en": "a sleeveless vest worn over the thobe on special occasions"
+     }
+    ],
+    "needs_ar": [
+     "لون السديري المناسب للأولاد: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "A suitable sideri colour for boys: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#A86F45",
+    "garment": "sideri",
+    "color": "#FFFFFF",
+    "over": "#2E4A7A",
+    "trim": "#E8C547",
+    "head": "qahfiya",
+    "pose": "hold",
+    "prop": "rod",
+    "eyes": "happy",
+    "mouth": "smile",
+    "fw": 1.03,
+    "fh": 1.05
+   },
+   "greet_ar": "هلا بالربع!",
+   "greet_en": "Hey, friends!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "eastern-f",
+   "name_ar": "لولوة",
+   "name_en": "Lulwa",
+   "region": "eastern",
+   "region_ar": "المنطقة الشرقية",
+   "region_en": "Eastern Province",
+   "gender": "f",
+   "bio_ar": "لولوة تجمع الأصداف من الشاطئ، وتصنع منها لوحات صغيرة ملوّنة.",
+   "bio_en": "Lulwa collects shells on the beach and makes small colourful pictures with them.",
+   "hobby_ar": "جمع الأصداف",
+   "hobby_en": "collecting shells",
+   "skill_ar": "الإبداع اليدوي",
+   "skill_en": "Making things by hand",
+   "line_ar": "«شوفوا هالصدفة… فيها خطوط مثل الموج!»",
+   "line_en": "“Look at this shell… it has lines like waves!”",
+   "gloss_ar": "«شوفوا»: انظروا.",
+   "gloss_en": "In Arabic she says “shoufou”, meaning “look”.",
+   "outfit": {
+    "environment_ar": "المنطقة الشرقية",
+    "environment_en": "Eastern Province",
+    "source": "eastern",
+    "pieces": [
+     {
+      "name_ar": "دراعة",
+      "name_en": "Darra‘ah",
+      "desc_ar": "ثوب طويل واسع بأكمام طويلة يُلبس في البيت",
+      "desc_en": "a long, loose dress with long sleeves, worn at home"
+     },
+     {
+      "name_ar": "المخنق",
+      "name_en": "Mukhnaq",
+      "desc_ar": "ثوب شفاف تلبسه الصغيرات",
+      "desc_en": "a sheer dress worn by young girls"
+     }
+    ],
+    "needs_ar": [
+     "ألوان الدراعة للصغيرات: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Darra‘ah colours for young girls: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#2E4A7A",
+    "emb": "yoke",
+    "trim": "#E8C547",
+    "trim2": "#F6EEE4",
+    "head": "band",
+    "accent": "#E8C547",
+    "pose": "wave",
+    "prop": "shell",
+    "eyes": "dot",
+    "mouth": "grin",
+    "mukhnaq": true,
+    "fw": 0.97,
+    "fh": 0.99
+   },
+   "greet_ar": "يا هلا وغلا!",
+   "greet_en": "Hello, dear one!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "asir-m",
+   "name_ar": "علي",
+   "name_en": "Ali",
+   "region": "asir",
+   "region_ar": "عسير",
+   "region_en": "Asir",
+   "gender": "m",
+   "bio_ar": "علي يحب الجبال ومراقبة الطيور، ويعرف الطريق في الضباب.",
+   "bio_en": "Ali loves the mountains and birdwatching, and knows the way through the fog.",
+   "hobby_ar": "مراقبة الطيور",
+   "hobby_en": "birdwatching",
+   "skill_ar": "الإحساس بالاتجاه",
+   "skill_en": "A sense of direction",
+   "line_ar": "«اسمعوا… هذا صوت طير!»",
+   "line_en": "“Listen… that’s a bird!”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الإزار",
+      "name_en": "Izar",
+      "desc_ar": "قطعة تُلف على الجزء السفلي من الجسم",
+      "desc_en": "a cloth wrapped around the lower body"
+     },
+     {
+      "name_ar": "الشمزي",
+      "name_en": "Shamzi",
+      "desc_ar": "قميص مفتوح من الأمام",
+      "desc_en": "a shirt open at the front"
+     },
+     {
+      "name_ar": "الحزام",
+      "name_en": "Belt",
+      "desc_ar": "حزام جلدي",
+      "desc_en": "a leather belt"
+     },
+     {
+      "name_ar": "الصمادة",
+      "name_en": "Smadah",
+      "desc_ar": "عمامة ملوّنة تُلف على الرأس",
+      "desc_en": "a colourful turban wrapped around the head"
+     }
+    ],
+    "needs_ar": [
+     "الصمادة والإزار في بيئة عسير الجبلية تحديدًا: مرجع مصوّر",
+     "الحزام للأطفال: يُرسم بلا خنجر"
+    ],
+    "needs_en": [
+     "The smadah and izar in Asir’s mountain environment specifically: illustrated reference",
+     "Children’s belt: drawn without a dagger"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#9C6640",
+    "garment": "south",
+    "color": "#F6EEE4",
+    "izar": "#1A6E5A",
+    "trim": "#E8C547",
+    "head": "smada",
+    "smada": "#E8934A",
+    "smada2": "#C0452E",
+    "pose": "hold",
+    "prop": "binoculars",
+    "eyes": "wide",
+    "mouth": "smile",
+    "brows": "flat",
+    "fw": 0.95,
+    "fh": 1.04
+   },
+   "greet_ar": "مرحبًا ألف!",
+   "greet_en": "A thousand welcomes!",
+   "greet_status": "author-example"
+  },
+  {
+   "id": "asir-f",
+   "name_ar": "مريم",
+   "name_en": "Maryam",
+   "region": "asir",
+   "region_ar": "عسير",
+   "region_en": "Asir",
+   "gender": "f",
+   "bio_ar": "مريم ترسم بالألوان الزاهية، وتحب الأشكال الهندسية والخطوط.",
+   "bio_en": "Maryam paints with bright colours and loves geometric shapes and lines.",
+   "hobby_ar": "الرسم والتلوين",
+   "hobby_en": "drawing and colouring",
+   "skill_ar": "تنسيق الألوان",
+   "skill_en": "Matching colours",
+   "line_ar": "«الأصفر جنب الأحمر… يصير حلو!»",
+   "line_en": "“Yellow next to red… looks lovely!”",
+   "gloss_ar": "«جنب»: بجانب.",
+   "gloss_en": "In Arabic she says “janb”, meaning “next to”.",
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الصدرة (السدرة)",
+      "name_en": "Al-Sedrah",
+      "desc_ar": "ثوب أسود مطرّز بألوان متعددة",
+      "desc_en": "a black dress embroidered in many colours"
+     },
+     {
+      "name_ar": "الشيلة",
+      "name_en": "Shaylah",
+      "desc_ar": "غطاء رأس أسود حوافه بخيوط ملوّنة أو خرز",
+      "desc_en": "a black head cover edged with coloured threads or beads"
+     },
+     {
+      "name_ar": "العصابة",
+      "name_en": "Isabah",
+      "desc_ar": "عصابة صفراء أو حمراء فوق الشيلة",
+      "desc_en": "a yellow or red headband worn over the shaylah"
+     }
+    ],
+    "needs_ar": [
+     "نقوش التطريز في عسير تحديدًا: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Embroidery patterns specific to Asir: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#B97A4C",
+    "garment": "dress",
+    "color": "#1E1B22",
+    "emb": "zigzag",
+    "trim": "#E8C547",
+    "trim2": "#C0452E",
+    "head": "south",
+    "shaylaColor": "#1E1B22",
+    "shaylaEdge": "#E8934A",
+    "band": "#E8C547",
+    "pose": "hold",
+    "prop": "brush",
+    "eyes": "happy",
+    "mouth": "smile",
+    "fw": 1.02,
+    "fh": 0.97
+   },
+   "greet_ar": "يا مرحبًا بك!",
+   "greet_en": "You are so welcome here!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "tabuk-m",
+   "name_ar": "فهد",
+   "name_en": "Fahad",
+   "region": "tabuk",
+   "region_ar": "تبوك",
+   "region_en": "Tabuk",
+   "gender": "m",
+   "bio_ar": "فهد مستكشف صغير، يحمل بوصلة ويحب أن يعرف أين الشمال دائمًا.",
+   "bio_en": "Fahad is a little explorer. He carries a compass and always wants to know where north is.",
+   "hobby_ar": "الاستكشاف والخرائط",
+   "hobby_en": "exploring and maps",
+   "skill_ar": "قراءة الاتجاهات",
+   "skill_en": "Reading directions",
+   "line_ar": "«الشمال من هنا… يلا نمشي!»",
+   "line_en": "“North is this way… let’s go!”",
+   "gloss_ar": "«يلا»: هيا.",
+   "gloss_en": "In Arabic he says “yalla”, meaning “let’s go”.",
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية (اختيار مبدئي)",
+    "environment_en": "Northern Region (preliminary choice)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب",
+      "name_en": "Thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "شماغ وعقال",
+      "name_en": "Shemagh and agal",
+      "desc_ar": "غطاء الرأس وما يثبّته",
+      "desc_en": "the head cover and what holds it in place"
+     },
+     {
+      "name_ar": "دقلة",
+      "name_en": "Daglah",
+      "desc_ar": "رداء طويل مفتوح من الأمام",
+      "desc_en": "a long coat open at the front"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في تبوك: الدليل الحالي لا يغطي أزياء الرجال في المنطقة الشمالية"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Tabuk: the current guide does not cover men’s dress in the Northern Region"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#C68B59",
+    "garment": "dagla",
+    "color": "#FFFFFF",
+    "over": "#5A4632",
+    "trim": "#E8934A",
+    "head": "shemagh",
+    "pose": "point",
+    "prop": "compass",
+    "eyes": "dot",
+    "mouth": "grin",
+    "brows": "up",
+    "fw": 1.0,
+    "fh": 1.07
+   },
+   "greet_ar": "هلا يا رفيق الدرب!",
+   "greet_en": "Hi, travel buddy!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "tabuk-f",
+   "name_ar": "مها",
+   "name_en": "Maha",
+   "region": "tabuk",
+   "region_ar": "تبوك",
+   "region_en": "Tabuk",
+   "gender": "f",
+   "bio_ar": "مها تحب النجوم، وتعرف أسماء بعضها، وتنتظر الليل لترصدها.",
+   "bio_en": "Maha loves the stars, knows the names of some of them, and waits for night to watch them.",
+   "hobby_ar": "رصد النجوم",
+   "hobby_en": "stargazing",
+   "skill_ar": "الصبر والملاحظة",
+   "skill_en": "Patience and observation",
+   "line_ar": "«الليلة السما صافية… بنشوف نجوم كثير!»",
+   "line_en": "“The sky is clear tonight… we’ll see lots of stars!”",
+   "gloss_ar": "«بنشوف»: سنرى.",
+   "gloss_en": "In Arabic she says “binshouf”, meaning “we’ll see”.",
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية",
+    "environment_en": "Northern Region",
+    "source": "north",
+    "pieces": [
+     {
+      "name_ar": "المحوثل",
+      "name_en": "Al-Mehwathal",
+      "desc_ar": "ثوب طويل يُرفع عند الخصر ويُربط بحزام منسوج أحمر أو أسود",
+      "desc_en": "a long dress gathered at the waist and tied with a red or black woven belt"
+     },
+     {
+      "name_ar": "الشيلة الحمراء",
+      "name_en": "Red shaylah",
+      "desc_ar": "يذكر الدليل أن الصغيرات يلبسن شيلة حمراء",
+      "desc_en": "the guide says young girls wear a red shaylah"
+     }
+    ],
+    "needs_ar": [
+     "لون المحوثل للطفلة: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "The mehwathal colour for a girl: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#D6A06C",
+    "garment": "north",
+    "color": "#2B2F4A",
+    "emb": "hem",
+    "trim": "#C0452E",
+    "trim2": "#F2B888",
+    "belt": "#C0452E",
+    "head": "shayla",
+    "shaylaColor": "#C0452E",
+    "shaylaEdge": "#8E2A22",
+    "pose": "hold",
+    "prop": "telescope",
+    "eyes": "wide",
+    "mouth": "smile",
+    "fw": 0.95,
+    "fh": 1.02
+   },
+   "greet_ar": "حيّ الله من جانا!",
+   "greet_en": "Welcome to everyone who visits us!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "hail-m",
+   "name_ar": "خالد",
+   "name_en": "Khalid",
+   "region": "hail",
+   "region_ar": "حائل",
+   "region_en": "Hail",
+   "gender": "m",
+   "bio_ar": "خالد يصنع طائرات ورقية، ويطيّرها حين تهبّ الريح بين الجبال.",
+   "bio_en": "Khalid makes kites and flies them when the wind blows between the mountains.",
+   "hobby_ar": "صناعة الطائرات الورقية",
+   "hobby_en": "making kites",
+   "skill_ar": "الصنع باليد",
+   "skill_en": "Making things by hand",
+   "line_ar": "«الريح اليوم قوية… خلّها تطير!»",
+   "line_en": "“The wind is strong today… let it fly!”",
+   "gloss_ar": "«خلّها»: دعها.",
+   "gloss_en": "In Arabic he says “khallha”, meaning “let it”.",
+   "outfit": {
+    "environment_ar": "اختيار مبدئي",
+    "environment_en": "Preliminary choice",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب أبيض",
+      "name_en": "White thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "شماغ أحمر وعقال",
+      "name_en": "Red shemagh and agal",
+      "desc_ar": "غطاء الرأس وما يثبّته",
+      "desc_en": "the head cover and what holds it in place"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في حائل: مرجع مصوّر موثّق"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Hail: a documented illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#B97A4C",
+    "garment": "thobe",
+    "color": "#FFFFFF",
+    "head": "shemagh",
+    "agal": true,
+    "pose": "hold",
+    "prop": "kite",
+    "eyes": "happy",
+    "mouth": "grin",
+    "fw": 1.05,
+    "fh": 0.98
+   },
+   "greet_ar": "يا هلا بالضيف!",
+   "greet_en": "Welcome, our guest!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "hail-f",
+   "name_ar": "موضي",
+   "name_en": "Moudhi",
+   "region": "hail",
+   "region_ar": "حائل",
+   "region_en": "Hail",
+   "gender": "f",
+   "bio_ar": "موضي نشيطة، تحب الجري والقفز، وتشجّع أصدقاءها في كل لعبة.",
+   "bio_en": "Moudhi is full of energy. She loves running and jumping, and cheers on her friends in every game.",
+   "hobby_ar": "الجري والألعاب الحركية",
+   "hobby_en": "running and active games",
+   "skill_ar": "التشجيع وروح الفريق",
+   "skill_en": "Encouragement and team spirit",
+   "line_ar": "«يلا يا شباب… نقدر!»",
+   "line_en": "“Come on, everyone… we can do it!”",
+   "gloss_ar": "«نقدر»: نستطيع.",
+   "gloss_en": "In Arabic she says “nigdar”, meaning “we can”.",
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية",
+    "environment_en": "Northern Region",
+    "source": "north",
+    "pieces": [
+     {
+      "name_ar": "الدراعة",
+      "name_en": "Darra‘ah",
+      "desc_ar": "ثوب طويل واسع بأكمام واسعة، يُذكر بلونيه البرتقالي والقرمزي",
+      "desc_en": "a long, loose dress with wide sleeves, described in orange and crimson"
+     }
+    ],
+    "needs_ar": [
+     "هل تشمل بيئة حائل الدراعة القرمزية: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Whether Hail’s environment includes the crimson darra‘ah: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#B5452F",
+    "emb": "both",
+    "trim": "#E8934A",
+    "trim2": "#F6EEE4",
+    "head": "band",
+    "accent": "#F2B888",
+    "pose": "up",
+    "prop": "none",
+    "eyes": "happy",
+    "mouth": "grin",
+    "brows": "up",
+    "fw": 0.98,
+    "fh": 1.04
+   },
+   "greet_ar": "حيّاك يا بعد حيّي!",
+   "greet_en": "Welcome, you are so dear to me!",
+   "greet_status": "author-example"
+  },
+  {
+   "id": "northern-m",
+   "name_ar": "عبدالرحمن",
+   "name_en": "Abdulrahman",
+   "region": "northern",
+   "region_ar": "الحدود الشمالية",
+   "region_en": "Northern Borders",
+   "gender": "m",
+   "bio_ar": "عبدالرحمن يكتب في دفتره كل يوم: هل أمطرت؟ هل هبّت الريح؟",
+   "bio_en": "Abdulrahman writes in his notebook every day: Did it rain? Did the wind blow?",
+   "hobby_ar": "تدوين الطقس",
+   "hobby_en": "keeping a weather diary",
+   "skill_ar": "التنظيم والكتابة",
+   "skill_en": "Organising and writing",
+   "line_ar": "«أمس مطر، واليوم شمس… أكتبها كلها!»",
+   "line_en": "“Rain yesterday, sun today… I write it all down!”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية (اختيار مبدئي)",
+    "environment_en": "Northern Region (preliminary choice)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب",
+      "name_en": "Thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "غترة وعقال",
+      "name_en": "Ghutrah and agal",
+      "desc_ar": "غطاء الرأس",
+      "desc_en": "head cover"
+     },
+     {
+      "name_ar": "دقلة",
+      "name_en": "Daglah",
+      "desc_ar": "رداء طويل مفتوح من الأمام",
+      "desc_en": "a long coat open at the front"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في الحدود الشمالية: الدليل الحالي لا يغطي أزياء الرجال في المنطقة الشمالية"
+    ],
+    "needs_en": [
+     "Boys’ clothing in the Northern Borders: the current guide does not cover men’s dress in the Northern Region"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#A86F45",
+    "garment": "dagla",
+    "color": "#FFFFFF",
+    "over": "#4F5B3A",
+    "trim": "#E8C547",
+    "head": "ghutra",
+    "pose": "hold",
+    "prop": "notebook",
+    "eyes": "dot",
+    "mouth": "side",
+    "glasses": true,
+    "fw": 0.96,
+    "fh": 1.02
+   },
+   "greet_ar": "حيّاك الله وبيّاك!",
+   "greet_en": "Welcome, and may you be well!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "northern-f",
+   "name_ar": "العنود",
+   "name_en": "Al-Anoud",
+   "region": "northern",
+   "region_ar": "الحدود الشمالية",
+   "region_en": "Northern Borders",
+   "gender": "f",
+   "bio_ar": "العنود تحب الحكايات، وتقرأ لأخيها الصغير قبل النوم.",
+   "bio_en": "Al-Anoud loves stories and reads to her little brother before bed.",
+   "hobby_ar": "القراءة بصوت عالٍ",
+   "hobby_en": "reading aloud",
+   "skill_ar": "التعبير وتغيير نبرة الصوت",
+   "skill_en": "Expression, and changing her tone of voice",
+   "line_ar": "«كان يا ما كان…»",
+   "line_en": "“Once upon a time…”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية",
+    "environment_en": "Northern Region",
+    "source": "north",
+    "pieces": [
+     {
+      "name_ar": "المحوثل",
+      "name_en": "Al-Mehwathal",
+      "desc_ar": "ثوب طويل يُرفع عند الخصر ويُربط بحزام منسوج",
+      "desc_en": "a long dress gathered at the waist and tied with a woven belt"
+     }
+    ],
+    "needs_ar": [
+     "المحوثل للطفلة في الحدود الشمالية: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "The mehwathal for a girl in the Northern Borders: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#D6A06C",
+    "garment": "north",
+    "color": "#3A2E2A",
+    "emb": "hem",
+    "trim": "#E8934A",
+    "trim2": "#F6EEE4",
+    "belt": "#1E1B22",
+    "head": "braids",
+    "accent": "#C0452E",
+    "pose": "wave",
+    "prop": "book",
+    "eyes": "dot",
+    "mouth": "grin",
+    "fw": 1.04,
+    "fh": 0.98
+   },
+   "greet_ar": "هلا والله وغلا!",
+   "greet_en": "Hello, so glad you are here!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "jazan-m",
+   "name_ar": "يحيى",
+   "name_en": "Yahya",
+   "region": "jazan",
+   "region_ar": "جازان",
+   "region_en": "Jazan",
+   "gender": "m",
+   "bio_ar": "يحيى يحب البحر والجزر، ويحلم أن يكون صيادًا ماهرًا مثل جدّه.",
+   "bio_en": "Yahya loves the sea and the islands, and dreams of becoming a skilled fisherman like his grandfather.",
+   "hobby_ar": "الصيد",
+   "hobby_en": "fishing",
+   "skill_ar": "السباحة والشجاعة",
+   "skill_en": "Swimming and courage",
+   "line_ar": "«الموج اليوم هادي… نطلع؟»",
+   "line_en": "“The sea is calm today… shall we go out?”",
+   "gloss_ar": "«هادي»: هادئ. «نطلع»: نخرج.",
+   "gloss_en": "In Arabic he says “hadi”, meaning “calm”, and “nitla‘”, meaning “go out”.",
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الإزار",
+      "name_en": "Izar",
+      "desc_ar": "قطعة تُلف على الجزء السفلي من الجسم",
+      "desc_en": "a cloth wrapped around the lower body"
+     },
+     {
+      "name_ar": "الشمزي",
+      "name_en": "Shamzi",
+      "desc_ar": "قميص مفتوح من الأمام",
+      "desc_en": "a shirt open at the front"
+     },
+     {
+      "name_ar": "الحزام",
+      "name_en": "Belt",
+      "desc_ar": "حزام جلدي",
+      "desc_en": "a leather belt"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في بيئة جازان الساحلية: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Jazan’s coastal environment: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#8A5A36",
+    "garment": "south",
+    "color": "#FFFFFF",
+    "izar": "#2E4A7A",
+    "trim": "#F2B888",
+    "head": "curly",
+    "hairColor": "#1E1B22",
+    "pose": "hold",
+    "prop": "rod",
+    "eyes": "happy",
+    "mouth": "grin",
+    "fw": 1.02,
+    "fh": 1.06
+   },
+   "greet_ar": "حيّا بك!",
+   "greet_en": "Glad you came!",
+   "greet_status": "proposed-dialect"
+  },
+  {
+   "id": "jazan-f",
+   "name_ar": "عائشة",
+   "name_en": "Aisha",
+   "region": "jazan",
+   "region_ar": "جازان",
+   "region_en": "Jazan",
+   "gender": "f",
+   "bio_ar": "عائشة تحب الألوان الزاهية والبحر، وتجمع ما يقذفه الموج من أصداف.",
+   "bio_en": "Aisha loves bright colours and the sea, and collects the shells the waves bring in.",
+   "hobby_ar": "اكتشاف الشاطئ",
+   "hobby_en": "exploring the beach",
+   "skill_ar": "الملاحظة السريعة",
+   "skill_en": "Quick noticing",
+   "line_ar": "«الموج جاب لنا هدية!»",
+   "line_en": "“The waves brought us a present!”",
+   "gloss_ar": "«جاب»: أحضر.",
+   "gloss_en": "In Arabic she says “jab”, meaning “brought”.",
+   "outfit": {
+    "environment_ar": "جازان (وصف عام)",
+    "environment_en": "Jazan (general description)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب بألوان صفراء وحمراء",
+      "name_en": "A dress in yellow and red",
+      "desc_ar": "يُذكر أن الفتيات في جازان لبسن نقوشًا صفراء وحمراء زاهية",
+      "desc_en": "girls in Jazan are described as wearing bright yellow and red patterns"
+     }
+    ],
+    "needs_ar": [
+     "مرجع مصوّر لنقوش ثياب الفتيات في جازان"
+    ],
+    "needs_en": [
+     "An illustrated reference for the patterns of girls’ dresses in Jazan"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#9C6640",
+    "garment": "dress",
+    "color": "#E8C547",
+    "emb": "both",
+    "trim": "#C0452E",
+    "trim2": "#F6EEE4",
+    "head": "braids",
+    "hairColor": "#1E1B22",
+    "accent": "#C0452E",
+    "pose": "hold",
+    "prop": "shell",
+    "eyes": "wide",
+    "mouth": "smile",
+    "fw": 0.98,
+    "fh": 0.93
+   },
+   "greet_ar": "يا مرحبا بك عندنا!",
+   "greet_en": "Welcome to our place!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "najran-m",
+   "name_ar": "عمر",
+   "name_en": "Omar",
+   "region": "najran",
+   "region_ar": "نجران",
+   "region_en": "Najran",
+   "gender": "m",
+   "bio_ar": "عمر يحب البناء، ويصنع بيوتًا صغيرة من الطين في فناء البيت.",
+   "bio_en": "Omar loves building and makes little mud houses in the courtyard at home.",
+   "hobby_ar": "البناء بالطين",
+   "hobby_en": "building with mud",
+   "skill_ar": "التخطيط والصبر",
+   "skill_en": "Planning and patience",
+   "line_ar": "«البيت لازم يكون قوي من تحت!»",
+   "line_en": "“A house has to be strong at the bottom!”",
+   "gloss_ar": "«لازم»: يجب.",
+   "gloss_en": "In Arabic he says “lazim”, meaning “has to”.",
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الإزار",
+      "name_en": "Izar",
+      "desc_ar": "قطعة تُلف على الجزء السفلي من الجسم",
+      "desc_en": "a cloth wrapped around the lower body"
+     },
+     {
+      "name_ar": "الشمزي",
+      "name_en": "Shamzi",
+      "desc_ar": "قميص مفتوح من الأمام",
+      "desc_en": "a shirt open at the front"
+     },
+     {
+      "name_ar": "الصمادة",
+      "name_en": "Smadah",
+      "desc_ar": "عمامة ملوّنة",
+      "desc_en": "a colourful turban"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في نجران تحديدًا: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Najran specifically: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#A86F45",
+    "garment": "south",
+    "color": "#F6EEE4",
+    "izar": "#6B1F3A",
+    "trim": "#E8934A",
+    "head": "smada",
+    "smada": "#1A6E5A",
+    "smada2": "#E8C547",
+    "pose": "hips",
+    "prop": "none",
+    "eyes": "dot",
+    "mouth": "grin",
+    "brows": "flat",
+    "fw": 1.07,
+    "fh": 1.0
+   },
+   "greet_ar": "حيّاك الله في نجران!",
+   "greet_en": "Welcome to Najran!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "najran-f",
+   "name_ar": "فاطمة",
+   "name_en": "Fatimah",
+   "region": "najran",
+   "region_ar": "نجران",
+   "region_en": "Najran",
+   "gender": "f",
+   "bio_ar": "فاطمة النجرانية تحب الغناء الهادئ للأطفال، وتعلّم أخواتها أسماء النخيل.",
+   "bio_en": "Fatimah from Najran loves singing softly to children and teaches her sisters the names of the palm trees.",
+   "hobby_ar": "تعليم الصغار",
+   "hobby_en": "teaching little ones",
+   "skill_ar": "الصبر والمساعدة",
+   "skill_en": "Patience and helping",
+   "line_ar": "«تعالوا… أعلّمكم اسم هالنخلة!»",
+   "line_en": "“Come here… I’ll teach you this palm tree’s name!”",
+   "gloss_ar": "«هالنخلة»: هذه النخلة.",
+   "gloss_en": "In Arabic she says “halnakhlah”, meaning “this palm tree”.",
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الصدرة (السدرة)",
+      "name_en": "Al-Sedrah",
+      "desc_ar": "ثوب أسود مطرّز",
+      "desc_en": "an embroidered black dress"
+     },
+     {
+      "name_ar": "الشيلة والعصابة",
+      "name_en": "Shaylah and isabah",
+      "desc_ar": "شيلة سوداء حوافها ملوّنة تثبّتها عصابة حمراء أو صفراء",
+      "desc_en": "a black shaylah with coloured edges, held by a red or yellow headband"
+     }
+    ],
+    "needs_ar": [
+     "نقوش التطريز في نجران تحديدًا: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Embroidery patterns specific to Najran: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#B97A4C",
+    "garment": "dress",
+    "color": "#1E1B22",
+    "emb": "both",
+    "trim": "#1A6E5A",
+    "trim2": "#E8C547",
+    "head": "south",
+    "shaylaColor": "#1E1B22",
+    "shaylaEdge": "#1A6E5A",
+    "band": "#C0452E",
+    "pose": "wave",
+    "prop": "none",
+    "eyes": "wide",
+    "mouth": "grin",
+    "brows": "up",
+    "fw": 0.96,
+    "fh": 1.01
+   },
+   "greet_ar": "مرحبا بك في ديارنا!",
+   "greet_en": "Welcome to our home!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "bahah-m",
+   "name_ar": "سعيد",
+   "name_en": "Saeed",
+   "region": "bahah",
+   "region_ar": "الباحة",
+   "region_en": "Al-Baha",
+   "gender": "m",
+   "bio_ar": "سعيد يحب الغابات، ويزرع شجرة صغيرة كل عام مع مدرسته.",
+   "bio_en": "Saeed loves forests and plants a small tree every year with his school.",
+   "hobby_ar": "التشجير",
+   "hobby_en": "planting trees",
+   "skill_ar": "الاهتمام بالبيئة",
+   "skill_en": "Caring for the environment",
+   "line_ar": "«كل شجرة نزرعها… تظلّل أحد بعدين!»",
+   "line_en": "“Every tree we plant… will give someone shade later!”",
+   "gloss_ar": "«بعدين»: فيما بعد.",
+   "gloss_en": "In Arabic he says “ba‘dain”, meaning “later”.",
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "الإزار",
+      "name_en": "Izar",
+      "desc_ar": "قطعة تُلف على الجزء السفلي من الجسم",
+      "desc_en": "a cloth wrapped around the lower body"
+     },
+     {
+      "name_ar": "الشمزي",
+      "name_en": "Shamzi",
+      "desc_ar": "قميص مفتوح من الأمام",
+      "desc_en": "a shirt open at the front"
+     },
+     {
+      "name_ar": "الصمادة",
+      "name_en": "Smadah",
+      "desc_ar": "عمامة ملوّنة",
+      "desc_en": "a colourful turban"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في الباحة تحديدًا: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Al-Baha specifically: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#9C6640",
+    "garment": "south",
+    "color": "#FFFFFF",
+    "izar": "#3A4429",
+    "trim": "#F2B888",
+    "head": "smada",
+    "smada": "#C0452E",
+    "smada2": "#F6EEE4",
+    "pose": "point",
+    "prop": "seedling",
+    "eyes": "happy",
+    "mouth": "smile",
+    "fw": 0.98,
+    "fh": 0.96
+   },
+   "greet_ar": "يا مرحبا ويا هلا!",
+   "greet_en": "Hello and a big welcome!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "bahah-f",
+   "name_ar": "صيته",
+   "name_en": "Saitah",
+   "region": "bahah",
+   "region_ar": "الباحة",
+   "region_en": "Al-Baha",
+   "gender": "f",
+   "bio_ar": "صيته تحب الزهور البرية، وتعرف أين تنبت بعد المطر.",
+   "bio_en": "Saitah loves wild flowers and knows where they grow after the rain.",
+   "hobby_ar": "جمع الزهور البرية ورسمها",
+   "hobby_en": "picking and drawing wild flowers",
+   "skill_ar": "معرفة النباتات",
+   "skill_en": "Knowing plants",
+   "line_ar": "«بعد المطر… الجبل يلبس ألوان!»",
+   "line_en": "“After the rain… the mountain wears colours!”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الجنوبية",
+    "environment_en": "Southern Region",
+    "source": "south",
+    "pieces": [
+     {
+      "name_ar": "المزندة",
+      "name_en": "Al-Mezandah",
+      "desc_ar": "ثوب من قماش ملوّن، ضيّق الأكمام والخصر ويتسع عند الأسفل",
+      "desc_en": "a dress of coloured fabric, fitted at the sleeves and waist and wide at the hem"
+     },
+     {
+      "name_ar": "الشيلة والعصابة",
+      "name_en": "Shaylah and isabah",
+      "desc_ar": "شيلة سوداء تثبّتها عصابة صفراء أو حمراء",
+      "desc_en": "a black shaylah held in place by a yellow or red headband"
+     }
+    ],
+    "needs_ar": [
+     "المزندة في الباحة تحديدًا: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "The mezandah in Al-Baha specifically: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#C68B59",
+    "garment": "dress",
+    "color": "#6B1F3A",
+    "emb": "zigzag",
+    "trim": "#E8C547",
+    "trim2": "#7FB0AE",
+    "head": "south",
+    "shaylaColor": "#1E1B22",
+    "shaylaEdge": "#E8934A",
+    "band": "#E8C547",
+    "pose": "hold",
+    "prop": "rose",
+    "eyes": "dot",
+    "mouth": "grin",
+    "fw": 0.94,
+    "fh": 0.95
+   },
+   "greet_ar": "مرحبا بك بين الجبال!",
+   "greet_en": "Welcome to the mountains!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "jouf-m",
+   "name_ar": "نايف",
+   "name_en": "Naif",
+   "region": "jouf",
+   "region_ar": "الجوف",
+   "region_en": "Al-Jouf",
+   "gender": "m",
+   "bio_ar": "نايف يساعد في قطف الزيتون، ويحب أن يعرف كيف يُعصر زيته.",
+   "bio_en": "Naif helps pick olives and wants to know how their oil is pressed.",
+   "hobby_ar": "الزراعة والقطف",
+   "hobby_en": "farming and harvesting",
+   "skill_ar": "التعاون في العمل",
+   "skill_en": "Working together",
+   "line_ar": "«حبّة… حبّة… والسلة تمتلي!»",
+   "line_en": "“One by one… and the basket fills up!”",
+   "gloss_ar": "«تمتلي»: تمتلئ.",
+   "gloss_en": "In Arabic he says “timtili”, meaning “fills up”.",
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية (اختيار مبدئي)",
+    "environment_en": "Northern Region (preliminary choice)",
+    "source": null,
+    "pieces": [
+     {
+      "name_ar": "ثوب",
+      "name_en": "Thobe",
+      "desc_ar": "ثوب طويل",
+      "desc_en": "a long robe"
+     },
+     {
+      "name_ar": "شماغ وعقال",
+      "name_en": "Shemagh and agal",
+      "desc_ar": "غطاء الرأس",
+      "desc_en": "head cover"
+     },
+     {
+      "name_ar": "دقلة",
+      "name_en": "Daglah",
+      "desc_ar": "رداء طويل مفتوح من الأمام",
+      "desc_en": "a long coat open at the front"
+     }
+    ],
+    "needs_ar": [
+     "لباس الأولاد في الجوف: الدليل الحالي لا يغطي أزياء الرجال في المنطقة الشمالية"
+    ],
+    "needs_en": [
+     "Boys’ clothing in Al-Jouf: the current guide does not cover men’s dress in the Northern Region"
+    ]
+   },
+   "drawing": {
+    "g": "m",
+    "skin": "#C68B59",
+    "garment": "dagla",
+    "color": "#FFFFFF",
+    "over": "#2B2F4A",
+    "trim": "#C9CDD2",
+    "head": "shemagh",
+    "agal": true,
+    "pose": "hold",
+    "prop": "olive",
+    "eyes": "wide",
+    "mouth": "smile",
+    "brows": "up",
+    "fw": 1.01,
+    "fh": 1.04
+   },
+   "greet_ar": "حيّاك الله!",
+   "greet_en": "Welcome!",
+   "greet_status": "proposed"
+  },
+  {
+   "id": "jouf-f",
+   "name_ar": "الجازي",
+   "name_en": "Al-Jazi",
+   "region": "jouf",
+   "region_ar": "الجوف",
+   "region_en": "Al-Jouf",
+   "gender": "f",
+   "bio_ar": "الجازي تحب الطبخ مع جدّتها، وتعرف وصفات كثيرة بزيت الزيتون.",
+   "bio_en": "Al-Jazi loves cooking with her grandmother and knows many recipes made with olive oil.",
+   "hobby_ar": "الطبخ مع العائلة",
+   "hobby_en": "cooking with the family",
+   "skill_ar": "اتباع الخطوات بدقة",
+   "skill_en": "Following steps carefully",
+   "line_ar": "«جدّتي تقول: القليل من الزيت يكفي.»",
+   "line_en": "“My grandma says: a little oil is enough.”",
+   "gloss_ar": null,
+   "gloss_en": null,
+   "outfit": {
+    "environment_ar": "المنطقة الشمالية",
+    "environment_en": "Northern Region",
+    "source": "north",
+    "pieces": [
+     {
+      "name_ar": "المحوثل",
+      "name_en": "Al-Mehwathal",
+      "desc_ar": "ثوب طويل يُربط بحزام منسوج",
+      "desc_en": "a long dress tied with a woven belt"
+     },
+     {
+      "name_ar": "الشيلة الحمراء",
+      "name_en": "Red shaylah",
+      "desc_ar": "يذكر الدليل أن الصغيرات يلبسن شيلة حمراء",
+      "desc_en": "the guide says young girls wear a red shaylah"
+     }
+    ],
+    "needs_ar": [
+     "المحوثل للطفلة في الجوف: مرجع مصوّر"
+    ],
+    "needs_en": [
+     "The mehwathal for a girl in Al-Jouf: illustrated reference"
+    ]
+   },
+   "drawing": {
+    "g": "f",
+    "skin": "#D6A06C",
+    "garment": "north",
+    "color": "#4F5B3A",
+    "emb": "both",
+    "trim": "#E8934A",
+    "trim2": "#F6EEE4",
+    "belt": "#C0452E",
+    "head": "shayla",
+    "shaylaColor": "#C0452E",
+    "shaylaEdge": "#8E2A22",
+    "pose": "holdboth",
+    "prop": "olive",
+    "eyes": "happy",
+    "mouth": "smile",
+    "fw": 1.03,
+    "fh": 0.96
+   },
+   "greet_ar": "هلا ومرحبا بالطيبين!",
+   "greet_en": "Welcome, good people!",
+   "greet_status": "proposed"
+  }
+ ]
+}
