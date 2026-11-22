@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faisalalolayan.github.io/saudi-heroes/sitemap.xml
