@@ -5488,7 +5488,9 @@ function route(){
 }
 function stashStory(){try{const cur=(location.hash||'').slice(1);if((cur==='story'||cur==='en-story')&&window.__abtalStoryLive){localStorage.setItem('abtal-hero',window.__abtalStoryLive);}}catch(e){}}
 document.addEventListener('click',function(e){const a=e.target.closest('a[hreflang]');if(a)stashStory();},true);
+try{history.scrollRestoration='manual';}catch(e){}
 window.addEventListener('hashchange',route);route();
+window.addEventListener('load',function(){setTimeout(function(){let h='';try{h=decodeURIComponent(location.hash.slice(1));}catch(e){}const el=h?document.getElementById(h):document.getElementById('home');if(!el)return;if(el.hasAttribute('data-page'))window.scrollTo(0,0);else el.scrollIntoView({block:'start'});},0);});
 
 
 
